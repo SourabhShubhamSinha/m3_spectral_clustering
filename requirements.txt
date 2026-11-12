@@ -1,3 +1,4 @@
+affine==3.0.1
 anyio==4.16.0
 appnope==1.0.0
 argon2-cffi==25.1.0
@@ -12,12 +13,15 @@ bleach==6.4.0
 certifi==2026.10.23
 cffi==2.1.1
 charset-normalizer==3.5.2
+click==8.5.1
 cloudpickle==3.1.2
 comm==0.2.3
+configobj==5.0.9
 contourpy==1.4.0
 cycler==0.12.1
 debugpy==1.8.22
 defusedxml==0.7.1
+donfig==0.8.1.post1
 et_xmlfile==2.0.0
 executing==2.3.0
 fastjsonschema==2.22.3
@@ -86,12 +90,16 @@ pure_eval==0.2.4
 pyarrow==26.0.1
 pycparser==3.12
 Pygments==2.21.0
+pykdtree==1.4.3
 pynndescent==0.7.0
 pyparsing==3.3.3
+pyproj==3.8.0
+pyresample==1.35.0
 python-dateutil==4.0.0
 python-json-logger==4.2.0
 PyYAML==6.0.3
 pyzmq==27.3.0
+rasterio==1.5.2
 referencing==0.37.0
 requests==2.34.2
 rfc3339-validator==0.1.4
@@ -102,6 +110,7 @@ scikit-learn==1.9.1
 scipy==1.18.1
 seaborn==0.13.2
 Send2Trash==2.2.0
+shapely==2.2.0
 six==1.17.0
 soupsieve==4.1
 stack-data==0.6.3
